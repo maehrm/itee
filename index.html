@@ -87,13 +87,13 @@
       <li><a href="https://maehrm.hatenablog.com/entry/2017/05/21/181536">平成26年度 秋季 応用情報午後問3</a></li>
       マージソート
       
-      <li><a href="https://maehrm.hatenablog.com/entry/2019/02/09/222025">平成26年度 秋季 基本情報午後問8</a></li>
+      <li class="new"><a href="https://maehrm.hatenablog.com/entry/2019/02/09/222025">平成26年度 秋季 基本情報午後問8</a></li>
       2つの文字列間の編集距離(レーベンシュタイン距離) に関する問題
 
       <li><a href="https://maehrm.hatenablog.com/entry/2017/05/27/185628">平成26年度 春季 応用情報午後問3</a></li>
       フロイドの循環検出法の問題
       
-      <li><a href="https://maehrm.hatenablog.com/entry/2019/02/03/171513">平成26年度 春季 基本情報午後問9</a></li>
+      <li class="new"><a href="https://maehrm.hatenablog.com/entry/2019/02/03/171513">平成26年度 春季 基本情報午後問9</a></li>
       印字したときに単語が行末で切れないようにテキストを編集してファイルに出力するプログラムに関する問題
 
       <li><a href="https://maehrm.hatenablog.com/entry/2019/02/02/103724">平成25年度 秋季 基本情報午後問8</a></li>
@@ -145,6 +145,18 @@
     <footer>
       <p>Ⓜⓐⓢⓐⓗⓘⓓⓔ Ⓜⓐⓔⓗⓐⓡⓐ(<a href="https://twitter.com/maehrm">@maehrm</a>)</p>
     </footer>
+
+    <script>
+      'use strict';
+      
+      var ele = document.getElementsByClassName("new");
+      for (var i = 0; i < ele.length; i++) {
+          var newicon = document.createElement('img');
+          newicon.src = "./pic/new01-5.gif";
+          ele[i].appendChild(newicon);
+      }
+    </script>
+    
   </body>
 </html>
 
