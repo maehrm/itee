@@ -6,11 +6,32 @@ body {
     width: 800px;
     margin: 0em auto;
 }
- 
+
+header {
+    width: 800px;
+}
+
 header h1 {
     font-size: 50px;
     margin: 0px;
     color: #006;
+}
+
+main {
+    /* width: 500px; */
+    /* float: left; */
+    width: 800px;
+}
+
+/* side { */
+/*     width: 300px; */
+/*     background-color: #eeeeee; */
+/*     float: right; */
+/* } */
+
+footer {
+    /* clear: both; */
+    width: 800px;
 }
 
 footer p {
