@@ -59,3 +59,10 @@ a:hover {
     color: #fff;
     transition: 0.5s;
 }
+
+hr {
+   border-width: 1px 0px 0px 0px; /* 太さ1px */
+   border-style: dashed; /* 線種を破線に */
+   border-color: gray;   /* 線色を灰色に */
+   height: 1px;         /* 高さ(※古いIE用) */
+}
