@@ -1,0 +1,893 @@
+[
+  {
+    "id": 1,
+    "year": "令和7年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "最長共通部分列(Longest Common Subsequence: LCS)",
+    "url": "https://maehrm.hatenablog.com/entry/2025/10/18/095459",
+    "tags": ["動的計画法", "文字列"]
+  },
+  {
+    "id": 2,
+    "year": "令和7年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "スライドパズルを解くアルゴリズム(幅優先探索)",
+    "url": "https://maehrm.hatenablog.com/entry/2025/04/22/090000",
+    "tags": ["探索アルゴリズム", "幅優先探索"]
+  },
+  {
+    "id": 3,
+    "year": "令和6年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "素数を列挙するアルゴリズム",
+    "url": "https://maehrm.hatenablog.com/entry/2024/11/23/213859",
+    "tags": ["数学", "素数"]
+  },
+  {
+    "id": 4,
+    "year": "令和6年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "ダイクストラ法",
+    "url": "https://maehrm.hatenablog.com/entry/2024/04/23/212332",
+    "tags": ["グラフ・木構造", "最短経路"]
+  },
+  {
+    "id": 5,
+    "year": "令和5年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "2分探索木(AVL木・回転)",
+    "url": "https://maehrm.hatenablog.com/entry/2023/11/18/145346",
+    "tags": ["グラフ・木構造", "平衡木"]
+  },
+  {
+    "id": 6,
+    "year": "令和5年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "多倍長整数の演算(カラツバ法)",
+    "url": "https://maehrm.hatenablog.com/entry/2023/05/02/133646",
+    "tags": ["数学", "高速演算"]
+  },
+  {
+    "id": 7,
+    "year": "令和4年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "迷路の探索処理",
+    "url": "https://maehrm.hatenablog.com/entry/2022/11/05/102116",
+    "tags": ["探索アルゴリズム", "迷路"]
+  },
+  {
+    "id": 8,
+    "year": "令和4年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "数独の解答を求めるプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2022/04/23/134447",
+    "tags": ["探索アルゴリズム", "バックトラック"]
+  },
+  {
+    "id": 9,
+    "year": "令和3年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "有向グラフを用いた一筆書き",
+    "url": "https://maehrm.hatenablog.com/entry/2021/12/28/141147",
+    "tags": ["グラフ・木構造", "オイラー路"]
+  },
+  {
+    "id": 10,
+    "year": "令和3年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "クラスタ分析に用いるk-means法",
+    "url": "https://maehrm.hatenablog.com/entry/2021/04/19/223417",
+    "tags": ["機械学習", "クラスタリング"]
+  },
+  {
+    "id": 11,
+    "year": "令和3年度春期",
+    "exam": "応用情報",
+    "question": "午後問3その2",
+    "title": "クラスタ分析に用いるk-means法を用いて1000個の点を5つのクラスターに分類",
+    "url": "https://maehrm.hatenablog.com/entry/2021/04/24/092317",
+    "tags": ["機械学習", "クラスタリング"]
+  },
+  {
+    "id": 12,
+    "year": "令和2年度10月",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "誤差拡散法による減色処理",
+    "url": "https://maehrm.hatenablog.com/entry/2020/10/20/203953",
+    "tags": ["画像処理", "減色"]
+  },
+  {
+    "id": 13,
+    "year": "令和元年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "ニューラルネットワーク",
+    "url": "https://maehrm.hatenablog.com/entry/2019/11/10/153958",
+    "tags": ["機械学習", "ニューラルネットワーク"]
+  },
+  {
+    "id": 14,
+    "year": "令和元年度秋期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "Bitap法を使って文字列検索を行うプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/11/04/150429",
+    "tags": ["文字列", "検索"]
+  },
+  {
+    "id": 15,
+    "year": "令和元年度秋期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "入力ファイルの内容を、文字および16進数で表示するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/11/07/221240",
+    "tags": ["ファイル処理", "16進数"]
+  },
+  {
+    "id": 16,
+    "year": "令和元年度秋期",
+    "exam": "基本情報",
+    "question": "午後問12",
+    "title": "16ビットのパック10進数を加算するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/12/08/223304",
+    "tags": ["ビット演算", "数値計算"]
+  },
+  {
+    "id": 17,
+    "year": "サンプル問題",
+    "exam": "基本情報",
+    "question": "午後Python",
+    "title": "命令列を解釈実行することによって様々な図形を描くプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/11/06/214107",
+    "tags": ["グラフィックス", "インタプリタ"]
+  },
+  {
+    "id": 18,
+    "year": "平成31年度春期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "ハフマン符号化を用いた文字列圧縮",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/22/102242",
+    "tags": ["圧縮", "ハフマン符号"]
+  },
+  {
+    "id": 19,
+    "year": "平成31年度春期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "プログラム中に出現する文字コードごとの出現回数を求め、バブルソートで出現回数の降順にソートするプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/24/223800",
+    "tags": ["ソート", "文字列"]
+  },
+  {
+    "id": 20,
+    "year": "平成31年度春期",
+    "exam": "基本情報",
+    "question": "午後問11",
+    "title": "迷路(Maze)",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/27/053208",
+    "tags": ["探索アルゴリズム", "迷路"]
+  },
+  {
+    "id": 21,
+    "year": "平成30年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "ウェーブレット木に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2018/11/03/175923",
+    "tags": ["グラフ・木構造", "データ構造"]
+  },
+  {
+    "id": 22,
+    "year": "平成30年度秋期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "整数式を受け取って、その値を返すプログラムに関する問題(中置記法)",
+    "url": "https://maehrm.hatenablog.com/entry/2018/10/24/222459",
+    "tags": ["構文解析", "式評価"]
+  },
+  {
+    "id": 23,
+    "year": "平成30年度秋期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "列車の運行をシミュレーションするプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2018/10/27/114412",
+    "tags": ["シミュレーション", "スケジューリング"]
+  },
+  {
+    "id": 24,
+    "year": "平成30年度秋期",
+    "exam": "基本情報",
+    "question": "午後問12",
+    "title": "1970年1月1日から、指定された日付までの日数を求める問題",
+    "url": "https://maehrm.hatenablog.com/entry/2018/10/28/150003",
+    "tags": ["日付計算", "数値計算"]
+  },
+  {
+    "id": 25,
+    "year": "平成30年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "再帰による深さ優先探索を用いたナイトの巡回問題",
+    "url": "https://maehrm.hatenablog.com/entry/2018/05/04/101933",
+    "tags": ["探索アルゴリズム", "深さ優先探索"]
+  },
+  {
+    "id": 26,
+    "year": "平成30年度春期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "ヒープソート",
+    "url": "https://maehrm.hatenablog.com/entry/2018/04/22/111630",
+    "tags": ["ソート", "ヒープ"]
+  },
+  {
+    "id": 27,
+    "year": "平成30年度春期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "簡易集計プログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2018/04/23/051536",
+    "tags": ["データ処理", "集計"]
+  },
+  {
+    "id": 28,
+    "year": "平成30年度春期",
+    "exam": "基本情報",
+    "question": "午後問12",
+    "title": "数字→数値変換、2つの整数の積を求める問題など",
+    "url": "https://maehrm.hatenablog.com/entry/2018/05/03/154307",
+    "tags": ["文字列", "数値計算"]
+  },
+  {
+    "id": 29,
+    "year": "平成29年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "ナップザック問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/10/18/213430",
+    "tags": ["動的計画法", "最適化"]
+  },
+  {
+    "id": 30,
+    "year": "平成29年度秋期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "検査文字列を利用した文字列の誤り検出",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/13/212829",
+    "tags": ["文字列", "エラー検出"]
+  },
+  {
+    "id": 31,
+    "year": "平成29年度秋期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "文字列の中から、回文(palindrome)を探して表示する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/10/16/230432",
+    "tags": ["文字列", "回文"]
+  },
+  {
+    "id": 32,
+    "year": "平成29年度秋期",
+    "exam": "基本情報",
+    "question": "午後問12",
+    "title": "連続する2語から成るビット列αの中から、別のビット列βと一致する部分ビット列を検索し、βと同じ長さの別のビット列γで置き換えるプログラムに関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/10/21/114226",
+    "tags": ["ビット演算", "文字列"]
+  },
+  {
+    "id": 33,
+    "year": "平成29年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "幅優先探索、深さ優先探索、枝刈りに関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/11/04/173534",
+    "tags": ["探索アルゴリズム", "グラフ・木構造"]
+  },
+  {
+    "id": 34,
+    "year": "平成29年度春期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "ダイクストラ法",
+    "url": "https://maehrm.hatenablog.com/entry/2017/10/28/164737",
+    "tags": ["グラフ・木構造", "最短経路"]
+  },
+  {
+    "id": 35,
+    "year": "平成29年度春期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "ダイクストラ法(優先度付きキュー使用版)",
+    "url": "https://maehrm.hatenablog.com/entry/2023/01/03/074348",
+    "tags": ["グラフ・木構造", "最短経路"]
+  },
+  {
+    "id": 36,
+    "year": "平成29年度春期",
+    "exam": "基本情報",
+    "question": "午後問12",
+    "title": "64ビット符号なし整数の加算(副プログラムADD64)と副プログラムADD64を使用して、32ビット符号なし整数の乗算を行う副プログラムMUL32に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/10/29/174014",
+    "tags": ["ビット演算", "数値計算"]
+  },
+  {
+    "id": 37,
+    "year": "平成28年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "魔法陣",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/04/220357",
+    "tags": ["探索アルゴリズム", "パズル"]
+  },
+  {
+    "id": 38,
+    "year": "平成28年度秋期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "編集パターンに従って、数値を編集するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/17/183256",
+    "tags": ["文字列", "フォーマット"]
+  },
+  {
+    "id": 39,
+    "year": "平成28年度秋期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "遅延日数をできるだけ少なくするような開発作業順序を求める",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/16/182029",
+    "tags": ["スケジューリング", "最適化"]
+  },
+  {
+    "id": 40,
+    "year": "平成28年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "ライフゲーム(Life Game)",
+    "url": "https://maehrm.hatenablog.com/entry/2019/02/24/114339",
+    "tags": ["シミュレーション", "セルオートマトン"]
+  },
+  {
+    "id": 41,
+    "year": "平成28年度春期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "携帯端末上で稼働する簡易メモ帳の機能のうち、メモの編集処理(メモの追加・削除・変更・移動)を行うプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/02/130604",
+    "tags": ["データ処理", "配列操作"]
+  },
+  {
+    "id": 42,
+    "year": "平成28年度春期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "フラクタル図形を描画するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/03/120723",
+    "tags": ["グラフィックス", "再帰"]
+  },
+  {
+    "id": 43,
+    "year": "平成27年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "2分探索木に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/05/14/181532",
+    "tags": ["グラフ・木構造", "2分探索木"]
+  },
+  {
+    "id": 44,
+    "year": "平成27年度秋期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "Boyer-Moore-Horspool法(ボイヤー・ムーア法, BM法)",
+    "url": "https://maehrm.hatenablog.com/entry/2019/02/21/191006",
+    "tags": ["文字列", "検索"]
+  },
+  {
+    "id": 45,
+    "year": "平成27年度秋期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "ICカードを用いた入退室管理システム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/02/23/224025",
+    "tags": ["データ処理", "システム"]
+  },
+  {
+    "id": 46,
+    "year": "平成27年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "データ圧縮の前処理として用いられるBlock-sorting(ブロックソート)に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/05/21/103155",
+    "tags": ["ソート", "圧縮"]
+  },
+  {
+    "id": 47,
+    "year": "平成27年度春期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "与えられたn個のデータの中からk番目に小さい値を選択する方法として、クイックソートを応用したアルゴリズム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/02/16/194805",
+    "tags": ["ソート", "選択"]
+  },
+  {
+    "id": 48,
+    "year": "平成27年度春期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "換字暗号",
+    "url": "https://maehrm.hatenablog.com/entry/2017/03/20/153000",
+    "tags": ["暗号", "文字列"]
+  },
+  {
+    "id": 49,
+    "year": "平成26年度秋期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "マージソート",
+    "url": "https://maehrm.hatenablog.com/entry/2017/05/21/181536",
+    "tags": ["ソート", "分割統治法"]
+  },
+  {
+    "id": 50,
+    "year": "平成26年度秋期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "2つの文字列間の編集距離(レーベンシュタイン距離) に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2019/02/09/222025",
+    "tags": ["動的計画法", "文字列"]
+  },
+  {
+    "id": 51,
+    "year": "平成26年度秋期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "C言語によるセキュリティ管理",
+    "url": "https://maehrm.hatenablog.com/entry/2019/02/14/220610",
+    "tags": ["セキュリティ", "認証"]
+  },
+  {
+    "id": 52,
+    "year": "平成26年度春期",
+    "exam": "応用情報",
+    "question": "午後問3",
+    "title": "フロイドの循環検出法の問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/05/27/185628",
+    "tags": ["グラフ・木構造", "循環検出"]
+  },
+  {
+    "id": 53,
+    "year": "平成26年度春期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "印字したときに単語が行末で切れないようにテキストを編集してファイルに出力するプログラムに関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2019/02/03/171513",
+    "tags": ["文字列", "フォーマット"]
+  },
+  {
+    "id": 54,
+    "year": "平成25年度秋期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "文字列の圧縮と圧縮された文字列を復元するプログラムに関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2019/02/02/103724",
+    "tags": ["圧縮", "文字列"]
+  },
+  {
+    "id": 55,
+    "year": "平成25年度春期",
+    "exam": "応用情報",
+    "question": "午後問2",
+    "title": "逆ポーランド記法に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/06/22/230705",
+    "tags": ["構文解析", "スタック"]
+  },
+  {
+    "id": 56,
+    "year": "平成24年度秋期",
+    "exam": "応用情報",
+    "question": "午後問2",
+    "title": "Nクイーン問題",
+    "url": "https://maehrm.hatenablog.com/entry/2019/01/22/220436",
+    "tags": ["探索アルゴリズム", "バックトラック"]
+  },
+  {
+    "id": 57,
+    "year": "平成24年度秋期",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "Warshall-Floyd法(ワーシャルフロイド法)を用いて鉄道駅間の最短距離を求める問題",
+    "url": "https://maehrm.hatenablog.com/entry/2019/01/19/114718",
+    "tags": ["グラフ・木構造", "最短経路"]
+  },
+  {
+    "id": 58,
+    "year": "平成24年度秋期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "複数本のくじのくじ番号を当選番号と比較し、当たりを確認するプログラムに関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2019/01/12/192138",
+    "tags": ["データ処理", "照合"]
+  },
+  {
+    "id": 59,
+    "year": "平成23年度特別試験",
+    "exam": "応用情報",
+    "question": "午後問2",
+    "title": "集計表(CSV)をHTMLに変換して出力するプログラムに関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/06/24/105753",
+    "tags": ["データ処理", "HTML生成"]
+  },
+  {
+    "id": 60,
+    "year": "平成23年度特別試験",
+    "exam": "基本情報",
+    "question": "午後問8",
+    "title": "N個の要素中からK個の要素を選ぶ組合せを全て求める問題",
+    "url": "https://maehrm.hatenablog.com/entry/2019/01/10/195107",
+    "tags": ["組合せ", "再帰"]
+  },
+  {
+    "id": 61,
+    "year": "平成22年度春期",
+    "exam": "基本情報",
+    "question": "午後問11",
+    "title": "リバーシ（オセロ）に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2018/12/28/161608",
+    "tags": ["ゲーム", "探索アルゴリズム"]
+  },
+  {
+    "id": 62,
+    "year": "平成21年度秋期",
+    "exam": "基本情報",
+    "question": "午後問12",
+    "title": "ビット列Aの特定のビット位置(p+1)からのqビットをビット列Bのqビットに置き換える副プログラムREPLACEに関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2018/12/10/185920",
+    "tags": ["ビット演算", "データ処理"]
+  },
+  {
+    "id": 63,
+    "year": "平成21年度春期",
+    "exam": "基本情報",
+    "question": "午後問12",
+    "title": "32ビットの乗算に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2018/12/02/141641",
+    "tags": ["ビット演算", "数値計算"]
+  },
+  {
+    "id": 64,
+    "year": "平成22年度秋期",
+    "exam": "基本情報",
+    "question": "午後問12",
+    "title": "ビット列の並びを逆転させるプログラムに関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2018/11/18/171140",
+    "tags": ["ビット演算", "データ処理"]
+  },
+  {
+    "id": 65,
+    "year": "平成21年度秋期",
+    "exam": "応用情報",
+    "question": "午後問2",
+    "title": "文字列照合に関する問題",
+    "url": "https://maehrm.hatenablog.com/entry/2017/06/24/210330",
+    "tags": ["文字列", "検索"]
+  },
+  {
+    "id": 66,
+    "year": "平成21年度秋期",
+    "exam": "基本情報",
+    "question": "午後問9",
+    "title": "多倍長整数",
+    "url": "https://maehrm.hatenablog.com/entry/20091026/p1",
+    "tags": ["数値計算", "配列"]
+  },
+  {
+    "id": 67,
+    "year": "平成20年度秋期",
+    "exam": "基本情報",
+    "question": "午後問6",
+    "title": "金額を表すときのように、整数を3けた区切り形式の文字列に変換する関数convert",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/19/054007",
+    "tags": ["文字列", "フォーマット"]
+  },
+  {
+    "id": 68,
+    "year": "平成20年度秋期",
+    "exam": "基本情報",
+    "question": "午後問10",
+    "title": "換字暗号",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/21/155745",
+    "tags": ["暗号", "文字列"]
+  },
+  {
+    "id": 69,
+    "year": "平成20年度春期",
+    "exam": "ソフトウェア開発",
+    "question": "午後問5",
+    "title": "マージソート",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/26/190021",
+    "tags": ["ソート", "分割統治法"]
+  },
+  {
+    "id": 70,
+    "year": "平成20年度春期",
+    "exam": "基本情報",
+    "question": "午後問2",
+    "title": "文字列検索アルゴリズム(ナイーブな方法)",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/22/213629",
+    "tags": ["文字列", "検索"]
+  },
+  {
+    "id": 71,
+    "year": "平成20年度春期",
+    "exam": "基本情報",
+    "question": "午後問4",
+    "title": "配列を用いたリスト",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/23/181428",
+    "tags": ["データ構造", "配列"]
+  },
+  {
+    "id": 72,
+    "year": "平成20年度春期",
+    "exam": "基本情報",
+    "question": "午後問6",
+    "title": "文書から参考資料名を抜き出して、参照番号に置き換えるとともに、文書の末尾に参考資料名の一覧を追加して、出力するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/24/173515",
+    "tags": ["文字列", "データ処理"]
+  },
+  {
+    "id": 73,
+    "year": "平成20年度春期",
+    "exam": "基本情報",
+    "question": "午後問10",
+    "title": "正の有限小数又は循環小数を既約分数に変換するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/24/222409",
+    "tags": ["数学", "数値計算"]
+  },
+  {
+    "id": 74,
+    "year": "平成19年度秋期",
+    "exam": "ソフトウェア開発",
+    "question": "午後問5",
+    "title": "トポロジカルソート",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/07/170825",
+    "tags": ["グラフ・木構造", "ソート"]
+  },
+  {
+    "id": 75,
+    "year": "平成19年度秋期",
+    "exam": "基本情報",
+    "question": "午後問4",
+    "title": "スタックを使って、実数値を10新文字列(文字列)に変換する副プログラムFloatFormat",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/28/184656",
+    "tags": ["スタック", "フォーマット"]
+  },
+  {
+    "id": 76,
+    "year": "平成19年度秋期",
+    "exam": "基本情報",
+    "question": "午後問6",
+    "title": "8文字×6文字の文字パターンを回転又は反転して標準出力に出力する関数invert",
+    "url": "https://maehrm.hatenablog.com/entry/2019/03/31/182848",
+    "tags": ["配列", "グラフィックス"]
+  },
+  {
+    "id": 77,
+    "year": "平成19年度春期",
+    "exam": "ソフトウェア開発",
+    "question": "午後問5",
+    "title": "小町算の解を求めるプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/08/054832",
+    "tags": ["探索アルゴリズム", "パズル"]
+  },
+  {
+    "id": 78,
+    "year": "平成19年度春期",
+    "exam": "基本情報",
+    "question": "午後問4",
+    "title": "挿入ソート",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/05/053427",
+    "tags": ["ソート", "基本アルゴリズム"]
+  },
+  {
+    "id": 79,
+    "year": "平成19年度春期",
+    "exam": "基本情報",
+    "question": "午後問6",
+    "title": "双六（すごろく）ゲーム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/06/071508",
+    "tags": ["ゲーム", "シミュレーション"]
+  },
+  {
+    "id": 80,
+    "year": "平成19年度春期",
+    "exam": "基本情報",
+    "question": "午後問10",
+    "title": "リーグ戦の勝敗表を出力するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/06/190250",
+    "tags": ["データ処理", "配列"]
+  },
+  {
+    "id": 81,
+    "year": "平成18年度秋期",
+    "exam": "ソフトウェア開発",
+    "question": "午後問5",
+    "title": "2分探索木",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/16/220132",
+    "tags": ["グラフ・木構造", "2分探索木"]
+  },
+  {
+    "id": 82,
+    "year": "平成18年度秋期",
+    "exam": "基本情報",
+    "question": "午後問3",
+    "title": "n元1次方程式・ガウスの消去法",
+    "url": "https://maehrm.hatenablog.com/entry/20080327/p1",
+    "tags": ["数学", "行列"]
+  },
+  {
+    "id": 83,
+    "year": "平成18年度秋期",
+    "exam": "基本情報",
+    "question": "午後問6",
+    "title": "4けたの数字をなるべく少ない回数の推測で当てるゲーム Hit & Blow(ヒットアンドブロー)",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/08/213053",
+    "tags": ["ゲーム", "探索アルゴリズム"]
+  },
+  {
+    "id": 84,
+    "year": "平成18年度秋期",
+    "exam": "基本情報",
+    "question": "午後問10",
+    "title": "対象文字列を先頭から1文字ずつ順に調べ、パターン文字列が表現している条件を満足しているかどうかを判定するプログラム(正規表現もどき)",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/09/223314",
+    "tags": ["文字列", "パターンマッチング"]
+  },
+  {
+    "id": 85,
+    "year": "平成18年度春期",
+    "exam": "ソフトウェア開発",
+    "question": "午後問5",
+    "title": "ダイクストラ法",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/29/153224",
+    "tags": ["グラフ・木構造", "最短経路"]
+  },
+  {
+    "id": 86,
+    "year": "平成18年度春期",
+    "exam": "基本情報",
+    "question": "午後問6",
+    "title": "コッホ曲線",
+    "url": "https://maehrm.hatenablog.com/entry/20080710/p1",
+    "tags": ["グラフィックス", "再帰"]
+  },
+  {
+    "id": 87,
+    "year": "平成18年度春期",
+    "exam": "基本情報",
+    "question": "午後問10",
+    "title": "入力された英単語を検索し、訳語を表示するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/04/20/172307",
+    "tags": ["検索", "データ処理"]
+  },
+  {
+    "id": 88,
+    "year": "平成17年度秋期",
+    "exam": "基本情報",
+    "question": "午後問4",
+    "title": "中置表記法による正しい数式を、スタックを用いて後置表記法(逆ポーランド記法)に変換するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/05/01/164420",
+    "tags": ["構文解析", "スタック"]
+  },
+  {
+    "id": 89,
+    "year": "平成17年度春期",
+    "exam": "ソフトウェア開発",
+    "question": "午後問5",
+    "title": "リスト",
+    "url": "https://maehrm.hatenablog.com/entry/2019/05/18/104303",
+    "tags": ["データ構造", "リスト"]
+  },
+  {
+    "id": 90,
+    "year": "平成17年度春期",
+    "exam": "基本情報",
+    "question": "午後問2",
+    "title": "照合文字列に一致する文字列を置換するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/05/02/070601",
+    "tags": ["文字列", "検索"]
+  },
+  {
+    "id": 91,
+    "year": "平成17年度春期",
+    "exam": "基本情報",
+    "question": "午後問4",
+    "title": "ヒープソート",
+    "url": "https://maehrm.hatenablog.com/entry/2019/05/03/055428",
+    "tags": ["ソート", "ヒープ"]
+  },
+  {
+    "id": 92,
+    "year": "平成16年度秋期",
+    "exam": "基本情報",
+    "question": "午後問4",
+    "title": "M進文字列をN進文字列に基数変換するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/05/20/052251",
+    "tags": ["数値計算", "基数変換"]
+  },
+  {
+    "id": 93,
+    "year": "平成16年度秋期",
+    "exam": "基本情報",
+    "question": "午後問6",
+    "title": "URLエンコード",
+    "url": "https://maehrm.hatenablog.com/entry/2019/05/22/213137",
+    "tags": ["文字列", "エンコーディング"]
+  },
+  {
+    "id": 94,
+    "year": "平成16年度秋期",
+    "exam": "基本情報",
+    "question": "午後問10",
+    "title": "タートルグラフィックス(簡易版)",
+    "url": "https://maehrm.hatenablog.com/entry/2019/05/19/171959",
+    "tags": ["グラフィックス", "シミュレーション"]
+  },
+  {
+    "id": 95,
+    "year": "平成16年度春期",
+    "exam": "ソフトウェア開発",
+    "question": "午後問5",
+    "title": "Base64の変換プログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/06/10/205604",
+    "tags": ["エンコーディング", "文字列"]
+  },
+  {
+    "id": 96,
+    "year": "平成16年度春期",
+    "exam": "基本情報",
+    "question": "午後問4",
+    "title": "マージソート",
+    "url": "https://maehrm.hatenablog.com/entry/2019/06/01/144652",
+    "tags": ["ソート", "分割統治法"]
+  },
+  {
+    "id": 97,
+    "year": "平成16年度春期",
+    "exam": "基本情報",
+    "question": "午後問6",
+    "title": "n個の点が与えられたとき、これらの点を全て含む円のうち、半径が最小である円の中心座標と半径を求めるプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/06/02/213354",
+    "tags": ["数学", "幾何"]
+  },
+  {
+    "id": 98,
+    "year": "平成16年度春期",
+    "exam": "基本情報",
+    "question": "午後問10",
+    "title": "C言語の注釈を除去して標準出力へ出力するプログラム",
+    "url": "https://maehrm.hatenablog.com/entry/2019/06/03/221457",
+    "tags": ["文字列", "構文解析"]
+  },
+  {
+    "id": 99,
+    "year": "平成15年度春期",
+    "exam": "基本情報",
+    "question": "午後問4",
+    "title": "逆ポーランド記法",
+    "url": "https://maehrm.hatenablog.com/entry/20070619/p1",
+    "tags": ["構文解析", "スタック"]
+  }
+]
